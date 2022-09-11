@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @xSynthin
 - 👀 I’m interested in Linux, Programming, Algorithmic Trading
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: piplupisop@gmail.com
 
 <!---
